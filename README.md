@@ -1,2 +1,2 @@
 # Special-date
-Special dates
+Special date
