@@ -1,6 +1,3 @@
 # Special-date
 Special date
 
-
-
-
